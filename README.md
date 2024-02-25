@@ -1,16 +1,6 @@
 This repository contains a Python script for a Reddit bot designed to scan comments in a specified subreddit and reply to comments that match a predefined search string.
 
 
-Installation
-Clone this repository to your local machine.
-Ensure you have Python installed.
-Install the required Python dependencies by running:
-Copy code
-pip install praw
-Set up the Reddit API credentials and bot configuration as described below.
-Configuration
-Navigate to the Reddit Developer Apps page and create a new app.
-
 Obtain the following details:
 
 REDDIT_CLIENT_ID: Client ID provided by Reddit for your app.
